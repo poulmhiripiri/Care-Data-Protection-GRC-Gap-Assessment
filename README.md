@@ -172,3 +172,20 @@ This repository demonstrates:
 ## 9. Disclaimer
 
 This project is for portfolio and educational purposes. It is not legal advice. Care providers should seek professional legal, data protection or information governance advice before relying on any template for live compliance decisions.
+
+
+## Added cyber security baseline coverage
+
+The assessment now includes a dedicated cyber security baseline for care providers covering:
+
+- Firewall / secure internet edge controls
+- Secure Wi-Fi and network separation
+- Endpoint antivirus / EDR coverage
+- Device and backup encryption
+- Backup frequency, retention and ownership
+- Restore testing and recovery evidence
+- Ransomware-resilient backup design
+- Encryption of backup and data transmission connections
+- Patch and vulnerability management for endpoints, servers and network devices
+
+See `docs/minimum-office-network-security-baseline.md` and `templates/backup-recovery-secure-transmission-review-template.md`.

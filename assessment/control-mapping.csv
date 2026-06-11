@@ -24,3 +24,14 @@ INC-01,Breach Response,ICO Breach Reporting Guidance,NHS DSPT Incident Reporting
 INC-02,Breach Response,ICO Accountability and Governance,Lessons Learned,Compliance Analyst
 RET-01,Retention & Disposal,ICO Storage Limitation Principle,CQC Regulation 17,Compliance Analyst
 RET-02,Retention & Disposal,ICO Security Principle,Secure Disposal,GRC Analyst
+SEC-03,Office Network Security Baseline,ICO Security Outcomes,NCSC Small Business Guide / NHS DSPT Data Security,GRC Engineer
+SEC-04,Office Network Security Baseline,ICO Practical IT Security / Security Outcomes,Cyber Essentials firewall concept,Vulnerability Analyst
+SEC-05,Office Network Security Baseline,ICO Security Outcomes,NCSC Device and Network Security guidance,GRC Engineer
+SEC-06,Endpoint Security,ICO Practical IT Security / Security Outcomes,Cyber Essentials malware protection concept,Vulnerability Analyst
+SEC-07,Endpoint Security,ICO Practical IT Security / Security Outcomes,NCSC Mitigating Malware and Ransomware,Vulnerability Analyst
+SEC-08,Backup & Recovery,ICO Guide to Data Security,NHS DSPT Response and Recovery Planning,GRC Analyst
+SEC-09,Backup & Recovery,ICO Guide to Data Security,NHS DSPT Response and Recovery Planning,GRC Engineer
+SEC-10,Backup & Recovery,ICO Ransomware and Data Protection Compliance,NCSC Mitigating Malware and Ransomware,Vulnerability Analyst
+SEC-11,Encryption & Secure Transmission,ICO Encryption Guidance,UK GDPR Article 32 security principle,GRC Engineer
+SEC-12,Encryption & Secure Transmission,ICO Encryption and Data Storage,UK GDPR Article 32 security principle,Compliance Analyst
+VULN-03,Vulnerability Governance,ICO Security Outcomes,NHS DSPT / NCSC Vulnerability Management,Vulnerability Analyst

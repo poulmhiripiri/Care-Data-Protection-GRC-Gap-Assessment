@@ -134,3 +134,10 @@ Example controls:
 - Paper records are securely stored and destroyed.
 - Digital deletion process is documented.
 - Archive access is restricted.
+
+
+## Office Network Security Baseline
+
+Covers the bare minimum technical safeguards expected for a care provider's office or branch network, including firewall/router security, secure Wi-Fi, network separation, endpoint protection, patching, backups, recovery testing and encryption of backup/data transmissions.
+
+This domain is deliberately evidence-led so a GRC analyst can ask for screenshots, configuration exports, dashboards, logs and supplier confirmations rather than relying only on verbal assurances.
