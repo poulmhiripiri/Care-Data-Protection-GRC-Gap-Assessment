@@ -1,0 +1,7 @@
+# Do not commit live client evidence or personal data
+client-evidence/
+*.xlsx
+*.pdf
+*.docx
+*.zip
+.DS_Store

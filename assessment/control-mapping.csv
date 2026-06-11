@@ -1,0 +1,26 @@
+Control_ID,Domain,Primary_Guidance,Related_Guidance,Relevant_Role
+GOV-01,Governance & Accountability,ICO Accountability and Governance,CQC Regulation 17,GRC Analyst
+GOV-02,Governance & Accountability,ICO Guide to Accountability and Governance,CQC Well-led Governance,GRC Analyst
+GOV-03,Governance & Accountability,ICO Data Protection Audit Framework,CQC Regulation 17,Compliance Analyst
+ROP-01,Records of Processing,ICO Accountability and Governance,UK GDPR Article 30 concept,Compliance Analyst
+ROP-02,Records of Processing,ICO Lawful Basis Guidance,ICO Special Category Data,GRC Analyst
+SCD-01,Special Category Data,ICO Special Category Data,ICO Health and Social Care Transparency,Data Protection Analyst
+SCD-02,Special Category Data,ICO Information Security Checklist,NHS DSPT,Vulnerability Analyst
+TRN-01,Transparency,ICO Transparency in Health and Social Care,ICO Right to be Informed,Compliance Analyst
+TRN-02,Transparency,ICO Worker Health Information,Employment Data Guidance,Compliance Analyst
+IR-01,Individual Rights,ICO Individual Rights Guidance,ICO SAR Guidance,Compliance Analyst
+IR-02,Individual Rights,ICO Accountability and Governance,Training Evidence,GRC Analyst
+DPIA-01,DPIA & Privacy by Design,ICO DPIA Guidance,ICO High Risk Processing Examples,GRC Engineer
+DPIA-02,DPIA & Privacy by Design,ICO DPIA Guidance,Privacy by Design,GRC Engineer
+DS-01,Data Sharing,ICO Data Sharing Code of Practice,CQC/NHS sharing contexts,GRC Analyst
+DS-02,Data Sharing,ICO Data Sharing Agreements,ICO Lawful Basis for Sharing,GRC Analyst
+SUP-01,Supplier Management,ICO Accountability Contracts,NHS DSPT Supplier Assurance,Third Party Risk Analyst
+SUP-02,Supplier Management,ICO Accountability Contracts,CQC Information Governance,Third Party Risk Analyst
+SEC-01,Information Security,ICO Information Security Checklist,NHS DSPT,Vulnerability Analyst
+SEC-02,Information Security,ICO Information Security Checklist,NHS DSPT,Vulnerability Analyst
+VULN-01,Vulnerability Governance,NHS DSPT,ICO Security Principle,Vulnerability Analyst
+VULN-02,Vulnerability Governance,NHS DSPT,ICO Security Principle,Vulnerability Analyst
+INC-01,Breach Response,ICO Breach Reporting Guidance,NHS DSPT Incident Reporting,GRC Analyst
+INC-02,Breach Response,ICO Accountability and Governance,Lessons Learned,Compliance Analyst
+RET-01,Retention & Disposal,ICO Storage Limitation Principle,CQC Regulation 17,Compliance Analyst
+RET-02,Retention & Disposal,ICO Security Principle,Secure Disposal,GRC Analyst
