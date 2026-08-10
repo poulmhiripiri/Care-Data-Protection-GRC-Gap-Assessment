@@ -1,4 +1,4 @@
-# Care Provider Data Protection & GRC Gap Assessment Toolkit
+# UK Care Provider Data Protection & GRC Gap Assessment Toolkit
 
 A practical Governance, Risk and Compliance (GRC) project demonstrating how a UK care company can assess its data protection maturity, identify gaps, prioritise risks, and produce a remediation roadmap aligned to ICO guidance, UK GDPR principles, CQC governance expectations and NHS Data Security and Protection Toolkit (DSPT) concepts.
 
